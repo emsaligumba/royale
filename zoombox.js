@@ -6,10 +6,10 @@ var zoombox_path = scr[scr.length-1].getAttribute("src").replace('zoombox.js',''
 var options = {
     theme       : 'lightbox',      //available themes : zoombox,lightbox, prettyphoto, darkprettyphoto, simple
     opacity     : 0.8,                  // Black overlay opacity
-    duration    : 800,                // Animation duration
+    duration    : 400,                // Animation duration
     animation   : true,             // Do we have to animate the box ?
-    width       : 600,                  // Default width
-    height      : 400,                  // Default height
+    width       : 800,                  // Default width
+    height      : 500,                  // Default height
     gallery     : true,                 // Allow gallery thumb view
     autoplay : false,                // Autoplay for video
     overflow  : false               // Allow images bigger than screen ?
