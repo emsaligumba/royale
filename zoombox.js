@@ -4,7 +4,7 @@ var zoombox_path = scr[scr.length-1].getAttribute("src").replace('zoombox.js',''
 (function($){
 
 var options = {
-    theme       : 'zoombox',      //available themes : zoombox,lightbox, prettyphoto, darkprettyphoto, simple
+    theme       : 'lightbox',      //available themes : zoombox,lightbox, prettyphoto, darkprettyphoto, simple
     opacity     : 0.8,                  // Black overlay opacity
     duration    : 800,                // Animation duration
     animation   : true,             // Do we have to animate the box ?
