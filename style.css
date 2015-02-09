@@ -52,7 +52,7 @@ ul.big-btns li a{
 }
 ul.big-btns li a.btn-g{
 	background: #FFF;
-	border: 2px solid #98D361;
+	border: 2px solid #f85100;
 	color: #98D361;
 	display: inline-block;
 }
@@ -106,7 +106,7 @@ ul.usefull-for li a.u-windows span:hover{
 }
 /*----- top-grids -----*/
 .top-grids{
-	background:#f85100;
+	background:#98D361;
 	padding:3.2em 0 5em;
 }
 .top-grids-head h3{
